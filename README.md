@@ -68,7 +68,7 @@ A tamper-evident ledger for:
 * failover events
 * identity transfers
 
-## 4. **Kingdom Logic Layer™**
+## 4. **Value Logic Layer™**
 
 Ethical execution engine ensuring:
 
