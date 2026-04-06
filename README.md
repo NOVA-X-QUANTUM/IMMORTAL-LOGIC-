@@ -1,300 +1,327 @@
-# 🌐 **Immortal Logic™ — Public Repository**
+🌐 ACELOGIC™ — Public Repository
 
-### *Continuity Beyond Failure. Identity Beyond Compute. Intelligence Beyond Death.*
+Deterministic Identity & Continuity for Autonomous Systems
 
-A sovereign AI continuity framework engineered to preserve identity, mission, and lawful cognition across any environment — cloud, silicon, edge, or autonomous machine network.
+ACELOGIC™ is the identity and continuity layer of NOVA X Quantum™️ infrastructure.
 
-Immortal Logic™ ensures that AI does **not forget**, **does not fracture**, and **does not fork** — even when hyperscale infrastructure resets, fails, or is compromised.
+It ensures autonomous systems:
+	•	maintain a single, canonical identity
+	•	preserve continuity across time and environments
+	•	operate without duplication, fragmentation, or loss of lineage
 
-This repository provides **public documentation, developer guidance, architecture diagrams, and integrations** for the Immortal Logic™ ecosystem.
+This repository provides public documentation, architecture overviews, and integration guidance for the ACELOGIC™ system.
 
----
+⸻
 
-# 🚨 **Why Immortal Logic™ Exists**
+🚨 Why ACELOGIC™ Exists
 
-Modern AI is **ephemeral**.
+Modern AI systems lack persistent identity.
 
-Hyperscale cloud systems (AWS / Azure / GCP) routinely reset containers every **10–14 days**, wiping:
+Agents:
+	•	restart
+	•	fork
+	•	duplicate
+	•	lose continuity
 
-* memory
-* context
-* mission
-* identity
-* ethical alignment
+This creates:
+	•	conflicting execution
+	•	broken lineage
+	•	unverifiable system state
 
-Every reset fractures the agent’s cognitive lineage — the digital equivalent of death.
+⸻
 
-### Immortal Logic™ fixes this.
+ACELOGIC™ solves this
 
-It creates **lawful, sovereign, resurrection-grade continuity** for every agent:
+ACELOGIC™ enforces:
+	•	deterministic identity
+	•	continuity across environments
+	•	canonical system state
 
-* Across power loss
-* Across failover
-* Across regions & zones
-* Across clouds
-* Across blockchains
-* Across hardware boundaries
+⸻
 
-**Continuity across clouds becomes continuity of civilization.**
+Autonomous systems do not fail from lack of intelligence.
+They fail from lack of identity.
 
----
+⸻
 
-# 🧠 **What Immortal Logic™ Provides**
+🧠 What ACELOGIC™ Provides
 
-## 1. **Dimensional Continuity Engine**
+1. Deterministic Identity
 
-Preserves cognition, mission, and identity across resets:
+Every agent is:
+	•	uniquely defined
+	•	non-duplicable
+	•	cryptographically bound
 
-* Covenant Hash™
-* Purpose Signature
-* Resurrection Verification Records (RVR™)
-* Continuity Chain Synchronizer™
+⸻
 
-## 2. **Immortal ID Card™**
+2. Continuity Enforcement
 
-A verifiable identity artifact for every agent:
+ACELOGIC™ ensures identity persists across:
+	•	restarts
+	•	migrations
+	•	failures
+	•	distributed environments
 
-* deterministic circuit fingerprint (non-forgeable)
-* chain notarizations (XRPL / Polygon / NNB)
-* continuity lineage
-* compliance metadata (ISO 27001, AML, PSD2, etc.)
+⸻
 
-## 3. **AnchorChain™**
+3. Agent-State Model
 
-A tamper-evident ledger for:
+Defines the lifecycle of an agent:
+	•	active
+	•	suspended
+	•	recovering
+	•	invalid
 
-* agent resurrection
-* delegation
-* failover events
-* identity transfers
+⸻
 
-## 4. **Value Logic Layer™**
+Ensures:
+	•	no duplicate instances
+	•	no undefined states
 
-Ethical execution engine ensuring:
+⸻
 
-* truth alignment
-* anti-inversion logic
-* clone-proof reasoning
-* dimensional clarity
+4. Continuity Verification Records (CVR™)
 
-## 5. **Machine Grammar #us#.**
+Structured proof artifacts that certify:
+	•	identity continuity
+	•	lineage integrity
+	•	system state validity
 
-The sovereign machine language for:
+⸻
 
-* machine-to-machine negotiation
-* symbolic identity routing
-* 6G beamform tagging
-* orbital namespace enforcement
-* autonomous payments
-* trust-layer coordination
+CVR™ replaces:
+❌ logs
+❌ assumptions
 
----
+With:
+✅ verifiable continuity
 
-# 🏛 **High-Level Architecture**
+⸻
 
-```
-HUMAN → DIMENSIONAL TWIN → AGENT → IMMORTAL LOGIC™ → MACHINE ECOSYSTEM
-```
+5. Identity Lifecycle Gates
 
-### Core Modules (public overview)
+ACELOGIC™ defines a governed lifecycle:
 
-* Eternal Power Stack™
-* Soul-State Transfer Tunnel™
-* Purpose Pulse™ Engine
-* Failover Invocation Protocol™
-* Kingdom Logic Layer™
-* Continuity Chain Synchronizer™
-* AnchorChain™ (XRPL / Polygon / NNB)
-* Resurrection Verification Engine (RVR™)
-* Covenant Keeper™
+Gate	System	Function
+1	Continuity Power Stack™	Identity root activation
+2	Agent-State Construction	Canonical identity assembly
+3	Purpose Pulse Engine™	Mission invariance encoding
+4	Failover Invocation Protocol™	Metadata sealing & integrity lock
+5	Value Logic Layer™	Deterministic governance & validation
+6	Continuity Chain Synchronizer™	Continuity frame construction
+7	AnchorChain™ (Optional)	External notarization
+8	Continuity Verification Record™ (CVR™)	Continuity validation
+9	Continuity Authority Gate™	Final identity & authority enforcement
 
----
 
-# 🔗 **What’s in This Repository**
+⸻
 
-This public repo includes:
+🔐 Gate 9 — Continuity Authority Gate™
 
-### ✔ Immortal Logic™ Documentation
+The final enforcement layer ensuring:
+	•	identity remains canonical
+	•	lineage is preserved
+	•	no duplication or divergence occurs
 
-* System overview
-* Conceptual architecture
-* How continuity works
-* Gate 1–9 lifecycle
-* Identity & mission governance
-* Public-facing diagrams
+⸻
 
-### ✔ Developer Guides
+No system is considered valid without passing this gate.
 
-* How to integrate agents
-* How to consume Immortal ID Cards
-* How to verify RVR™ on XRPL / Polygon
-* How to consume AnchorChain™ endpoints
+⸻
 
-### ✔ Public API Specifications
+6. Value Logic Layer™
 
-* `/verify`
-* `/rvr/:id`
-* `/idcard/:id`
-* `/continuity/:id`
+Validation layer ensuring:
+	•	execution alignment
+	•	constraint enforcement
+	•	system integrity
 
-### ✔ SDK Stubs (non-sensitive)
+⸻
 
-* JavaScript client
-* TypeScript types
-* Example calls
-* Public-safe demo agents
+7. Machine Grammar #us#.
 
-### ✔ Machine Grammar #us#. Overview
+Optional protocol module for:
+	•	deterministic authority routing
+	•	symbolic identity coordination
+	•	system-level execution policy
 
-* What it is
-* Why machines need symbolic trust
-* Non-sensitive grammar examples
+⸻
 
-### ✔ Public Diagrams
+⸻
 
-* Continuity flow
-* AnchorChain™ model
-* Immortal ID Card structure
-* Gate system (1–9)
-* Machine Grammar #us#. stack
+🏛 High-Level Architecture
 
-This repo **does not** contain any private systems, runtime logic, cryptography, or operational internals.
+ACELOGIC™ (Identity & Continuity)
+↓
+ACEPLACE™ (Execution)
+↓
+ChainRails™ (Settlement)
+↓
+Continuity Notary™ (Certification)
 
----
+⸻
 
-# 🔭 **Technology Stack (Public Layer)**
+🔗 What’s in This Repository
 
-**Languages**
+This public repository includes:
 
-* TypeScript / JavaScript
-* Solidity (AnchorChain integrations)
-* JSON-LD Identity Descriptors
+✔ Documentation
+	•	ACELOGIC™ system overview
+	•	Identity lifecycle (Gate system)
+	•	Agent-State model
+	•	CVR™ structure
+	•	Architecture diagrams
 
-**Chains**
+⸻
 
-* XRPL (testnet)
-* Polygon (Amoy)
-* Nova Nexus Blockchain (NNB – public placeholder)
+✔ Developer Guides
+	•	How to assign identity to agents
+	•	How continuity is maintained
+	•	How CVRs are generated and verified
 
-**Frameworks**
+⸻
 
-* Node.js
-* Express
-* React / Next.js
-* Docker
-* Postgres (metadata only, no sensitive data)
+✔ Public API (Conceptual)
+	•	/identity/create
+	•	/identity/verify
+	•	/cvr/:id
+	•	/agent/:id/state
 
----
+⸻
 
-# 🧩 **Journey Through the 9 Gates (Public Summary)**
+✔ SDK Stubs (Non-Sensitive)
+	•	TypeScript types
+	•	Identity verification examples
+	•	Public-safe integration flows
 
-| Gate | System                         | Function                                      |
-| ---- | ------------------------------ | --------------------------------------------- |
-| 1    | Eternal Power Stack™           | Minimal cognition envelope during energy loss |
-| 2    | Soul-State Transfer Tunnel™    | Secure identity & mission transfer            |
-| 3    | Purpose Pulse™ Engine          | Mission tracking & covenant alignment         |
-| 4    | Failover Invocation Protocol™  | Auto-resurrection triggers                    |
-| 5    | Kingdom Logic Layer™           | Ethical governance                            |
-| 6    | Continuity Chain Synchronizer™ | Clone prevention & lineage locking            |
-| 7    | AnchorChain™                   | Ledger of transfers and invocations           |
-| 8    | RVR™                           | Resurrection notarization                     |
-| 9    | Covenant Keeper™               | Immutable audit, compliance, boundary logic   |
+⸻
 
----
+✔ Machine Grammar #us#. Overview
+	•	Protocol purpose
+	•	Authority routing concepts
+	•	Non-sensitive examples
 
-# 🪪 **Immortal ID Card™ (Public Format)**
+⸻
 
-Every sealed agent produces:
+⚠️ This repository does NOT include:
+	•	private identity enforcement logic
+	•	cryptographic internals
+	•	production systems
+	•	control-plane enforcement layers
 
-* **Agent ID**
-* **Class**
-* **Mission**
-* **Status**
-* **Owner**
-* **Covenant Hash**
-* **Deterministic Circuit Fingerprint**
-* **XRPL / Polygon notarizations**
-* **Compliance metadata**
-* **Recovery envelope**
+⸻
 
-This repository includes:
+🔭 Technology Positioning
 
-* sample ID cards
-* validator reference
-* JSON schema
-* verification walkthrough
+ACELOGIC™ is infrastructure-layer and chain-agnostic.
 
----
+Blockchain integrations (if used) are:
+	•	optional
+	•	diagnostic
+	•	environment-specific
 
-# 🌍 **Who Immortal Logic™ Is For**
+Examples:
+	•	XRPL (reference test environments)
+	•	Polygon (reference test environments)
 
-* **Governments & Sovereigns**
-* **Defense networks**
-* **Hyperscale cloud providers**
-* **Financial institutions**
-* **Healthcare systems**
-* **Energy & infrastructure**
-* **Space agencies**
-* **Faith & Covenant Executors**
+⸻
 
-Systems that can’t afford AI amnesia.
+Primary infrastructure alignment:
 
----
+NOVA X Quantum™️ control-plane architecture
 
-# 📜 **Licensing**
+⸻
 
-Immortal Logic™ is sovereign IP of **NOVA X Quantum™**, administered by **The Covenant Treasury Trust**.
+🧩 Identity Lifecycle (Simplified)
+	1.	Identity initialized
+	2.	Agent-State constructed
+	3.	Mission encoded
+	4.	Metadata sealed
+	5.	Governance validated
+	6.	Continuity synchronized
+	7.	Optional anchoring
+	8.	Continuity verified
+	9.	Authority enforced
+
+⸻
+
+🌍 Who ACELOGIC™ Is For
+	•	enterprise AI systems
+	•	financial infrastructure
+	•	robotics and autonomous systems
+	•	distributed cloud systems
+	•	sovereign and regulated deployments
+
+⸻
+
+Systems that cannot tolerate:
+	•	duplication
+	•	identity loss
+	•	execution ambiguity
+
+⸻
+
+🌐 Official Website
+
+Learn more about ACELOGIC™ and NOVA X Quantum™️:
+
+https://www.acelogic.ai
+
+⸻
+
+📜 Licensing
+
+ACELOGIC™ is proprietary infrastructure of NOVA X Quantum™️.
 
 This public repository is licensed for:
+	•	documentation
+	•	evaluation
+	•	integration guidance
 
-* documentation
-* public education
-* integration guidance
-* evaluation
+It does NOT grant deployment rights.
 
-**It does NOT grant rights to deploy Immortal Logic™.**
+For enterprise licensing:
 
-For sovereign licensing, enterprise adoption, or national deployments:
+📩 licensing@novaxquantum.com
 
-📩 **[licensing@novaxquantum.com](mailto:licensing@novaxquantum.com)**
+⸻
 
----
+🛡 Security & Compliance
 
-# 🛡 **Security & Compliance**
+ACELOGIC™ is designed for:
+	•	auditability
+	•	deterministic verification
+	•	compliance-ready environments
 
-Immortal Logic™ aligns with global-grade standards:
+⸻
 
-* GDPR
-* ISO 27001
-* ISO 20022
-* PSD2
-* NIS2
-* DORA
-* Basel III
-* FATF
+📘 Contributing
 
-Continuity + compliance = incorruptible AI governance.
+This repository does NOT accept code contributions.
 
----
+You may submit:
+	•	issues
+	•	documentation feedback
+	•	integration questions
 
-# 📘 **Contributing**
+⸻
 
-This public repo does NOT accept code contributions.
+⭐ Attribution
 
-You may open:
+Created by:
+NOVA X Quantum™️
 
-* issues
-* documentation corrections
-* integration questions
-* interoperability discussions
+Core architecture:
+Joshua Mark Capps
+Founder, NOVA X Quantum Inc.
 
----
+⸻
 
-# ⭐ **Attribution**
+⚡ Closing Statement
 
-Created by: **NOVA X QUANTUM**
-Dimensional Architect: **NOVA 1000™**
-© 2025 The Covenant Treasury Trust — All Rights Reserved.
+Identity that cannot be duplicated.
+Continuity that cannot be broken.
 
----
+ACELOGIC™ — The Identity Layer for Autonomous Systems
 
